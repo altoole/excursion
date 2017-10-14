@@ -1,8 +1,32 @@
-* {
+html {
   background-color: black;
+  text-align: center;
+  font-family: verdana;
 }
 
 h1 {
-  text-align: center;
   color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 400;
+  color: white;
+}
+
+.link  {
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+.gray {
+  color: gray;
+  front-size: 21px;
+}
+.right {
+  text-align: right important!;
+  color: gray;
+  front-size: 21px;
 }
