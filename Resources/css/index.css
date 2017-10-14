@@ -1,4 +1,4 @@
-html {
+body {
   background-color: black;
   text-align: center;
   font-family: verdana;
@@ -16,7 +16,7 @@ h2 {
   color: white;
 }
 
-.link  {
+a {
   font-size: 16px;
   color: Aquamarine;
 }
@@ -25,7 +25,8 @@ h2 {
   color: gray;
   front-size: 21px;
 }
-.right {
+
+footer {
   text-align: right important!;
   color: gray;
   front-size: 21px;
