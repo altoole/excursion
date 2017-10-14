@@ -27,7 +27,7 @@ a {
 }
 
 footer {
-  text-align: right important!;
+  text-align: right !;
   color: gray;
   front-size: 21px;
 }
